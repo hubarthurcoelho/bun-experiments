@@ -1,0 +1,12 @@
+{
+  "name": "bun-experiments",
+  "module": "index.ts",
+  "scripts": {},
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module"
+}
